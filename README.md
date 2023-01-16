@@ -1,2 +1,1 @@
-# trybe-exercicios
-Exercícios das aulas da Trybe
+# Portifólio de Exercicios
