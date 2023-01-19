@@ -1,0 +1,32 @@
+body{
+    font-size: 16px;
+}
+
+h1 {
+    font-family: sans-serif;
+    line-height: 50px;
+
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+    text-align: center;
+}
+
+li {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#verde {
+    background-color: green;
+} 
+
+#azul {
+    background-color: blue;
+} 
+
+#laranja {
+    background-color: orange;
+}
